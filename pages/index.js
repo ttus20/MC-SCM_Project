@@ -96,7 +96,7 @@ export default function HomePage() {
     return (
       <div className="container">
         <p className="text">Your Account: {account}</p>
-        <p className="text">Contract Balance: {balance} ETH</p>
+        <p className="text">Donated Balance: {balance} ETH</p>
         <input
           type="number"
           className="input"
