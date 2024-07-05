@@ -8,7 +8,7 @@ For this project, create a simple contract with 2-3 functions. Then show the val
 
 ## Getting Started
 
-# Starter Next/Hardhat Project
+### Starter Next/Hardhat Project
 
 Get the Start Template provided from the activity to run the github to gitpod
 
