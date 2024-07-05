@@ -1,3 +1,13 @@
+# Project Title
+
+SMART CONTRACT MANAGEMENT PROJECT
+
+## Description
+
+For this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
+
+## Getting Started
+
 # Starter Next/Hardhat Project
 
 After cloning the github, you will want to do the following to get the code running on your computer.
@@ -10,3 +20,12 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Help
+
+Any advise for common problems or issues.
+
+## Authors
+
+Ghasutt Joshua   
+https://github.com/ttus20
