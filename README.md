@@ -10,6 +10,8 @@ For this project, create a simple contract with 2-3 functions. Then show the val
 
 # Starter Next/Hardhat Project
 
+Get the Start Template provided from the activity to run the github to gitpod
+
 After cloning the github, you will want to do the following to get the code running on your computer.
 
 1. Inside the project directory, in the terminal type: npm i
