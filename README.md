@@ -1,6 +1,6 @@
-# Project Title
+# SMART CONTRACT MANAGEMENT PROJECT
 
-SMART CONTRACT MANAGEMENT PROJECT
+Project: Function Frontend
 
 ## Description
 
